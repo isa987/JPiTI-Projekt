@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    font-size: large;
+    /*text-align-last: center;*/
+  }
+  
+  header {
+    background-image: url(istockphoto-1318697731-170667a.webp) ; 
+    padding: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
+  section {
+    display: -webkit-flex;
+    display: flex;
+    padding: 5%;
+    
+  }
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    border: 50px #f1f1f1d8;
+  }
+
+  .water {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid #87CEEB ;
+    margin: 0;
+    
+  }
+
+  .sun{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid #ebd687;
+    
+    
+  }
+  
+  /* Style the footer */
+  .stopka{
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+
+
+  img{
+    max-width: 600px;
+    border-top: 2px;
+  }
+ 
