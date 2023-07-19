@@ -14,12 +14,7 @@ body {
     color: white;
   }
   
-  section {
-    display: -webkit-flex;
-    display: flex;
-    padding: 5%;
-    
-  }
+
   article {
     -webkit-flex: 3;
     -ms-flex: 3;
