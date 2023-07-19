@@ -20,7 +20,7 @@ body {
     -ms-flex: 3;
     flex: 3;
     background-color: #f1f1f1;
-    border: 50px #f1f1f1d8;
+    
   }
 
   .water {
@@ -52,7 +52,7 @@ body {
 
   img{
    max-width: 10%;
-      height:auto;
+      
     border-top: 2px;
   }
  
