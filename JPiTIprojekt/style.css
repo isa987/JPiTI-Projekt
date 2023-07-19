@@ -7,6 +7,7 @@ body {
   
   header {
     background-image: url(foto/monstera.jpg) ; 
+      /*https://www.google.com/search?q=monstera+deliciosawalpaper&tbm=isch&ved=2ahUKEwidu_SqopuAAxWaIxAIHYGVD64Q2-cCegQIABAA&oq=monstera+deliciosawalpaper&gs_lcp=CgNpbWcQAzoKCAAQigUQsQMQQzoFCAAQgAQ6BwgAEIoFEENQ9TBYnUBgr0JoAHAAeACAAVKIAfEEkgEBOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=pRm4ZN3UPJrHwPAPgau-8Ao&bih=710&biw=1476&client=opera&hs=HzE#imgrc=kSNyK2T6xbZDRM*/
     padding: 50px;
     text-align: center;
     font-size: 35px;
